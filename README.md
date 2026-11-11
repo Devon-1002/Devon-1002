@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Devon Grobler
 
-<!--
-**Devon-1002/Devon-1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Software Engineer & Azure AI Developer | Centurion, South Africa
 
-Here are some ideas to get you started:
+### Technical Stack & Core Competencies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** Python 3, C++, SQL, HTML5, CSS3
+* **AI & Cloud Engineering:** Microsoft Azure AI Foundry, OpenAI Python SDK, Model Context Protocol (MCP), Natural Language Processing (NLP), PII Redaction
+* **Data & Backend:** Flask REST APIs, SQLite, Microsoft SQL Server, Relational Schema Design, Non-Clustered Indexing
+* **Developer Tooling:** Visual Studio Code, Git, GitHub Actions, Virtual Environments (venv)
+
+### Industry Certification Track (2026)
+
+| Domain | Certification / Curriculum | Key Engineering Focus |
+| :--- | :--- | :--- |
+| **AI Engineering** | **Microsoft AI-103** | Generative AI Apps, Autonomous Agents, MCP Tools & Foundry IQ |
+| **AI Fundamentals** | **Microsoft AI-901** | Machine Learning, Computer Vision, NLP & Responsible AI |
+| **Database Admin** | **Microsoft DP-300** | Relational Databases, Query Optimization, Indexing & Security |
+| **Python Programming** | **OpenEDG PCAP** | Object-Oriented Programming, Custom Exceptions & Modules |
+| **Frontend Engineering** | **OpenEDG JSA** | Advanced ES6 Classes, Asynchronous Promises & DOM APIs |
+
+### Featured Capstone Project
+
+* **[Enterprise AI Support & PII Triage Engine](https://github.com/YOUR-USERNAME/enterprise-ai-triage-engine)** — A full-stack AI triage pipeline built with Python, SQLite, and Asynchronous JavaScript that automatically sanitizes Personally Identifiable Information (PII), classifies support tickets, and logs structured records to an indexed SQL database.
